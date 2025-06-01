@@ -11,3 +11,7 @@ class Solution:
             fast=fast.next.next
         return slow
         
+#fast is not None (i.e. the fast pointer hasn’t reached the end of the list),
+
+#fast.next is also not None (i.e. the next step won’t cause an error).
+
