@@ -9,6 +9,12 @@ class Solution:
             return list2
         if not list2:
             return list1
+
+        #if list 1 value is smaller , attach it to merged result of l1 and l2
+
+        #if list 2 value is smaller or equal , attach it to merged result of l1 and l2
+
+
         if list1.val<list2.val:
             list1.next=self.mergeTwoLists(list1.next,list2)
             return list1
