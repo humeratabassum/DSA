@@ -12,6 +12,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
+| [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -23,9 +24,26 @@ I'm using this repo to:
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
