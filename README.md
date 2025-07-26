@@ -12,6 +12,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
@@ -41,6 +42,7 @@ I'm using this repo to:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
