@@ -38,6 +38,7 @@ I'm using this repo to:
 | ------- |
 | [0001-two-sum](https://github.com/humeratabassum/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +52,8 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
