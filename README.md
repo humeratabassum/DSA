@@ -20,6 +20,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Tree
 |  |
 | ------- |
@@ -56,4 +57,9 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
