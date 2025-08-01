@@ -12,6 +12,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/humeratabassum/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/humeratabassum/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 ## Math
@@ -52,10 +54,12 @@ I'm using this repo to:
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/humeratabassum/DSA/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
