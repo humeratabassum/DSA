@@ -12,6 +12,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/humeratabassum/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/humeratabassum/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
@@ -59,6 +60,7 @@ I'm using this repo to:
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/humeratabassum/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/humeratabassum/DSA/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
@@ -73,4 +75,8 @@ I'm using this repo to:
 | ------- |
 | [0125-valid-palindrome](https://github.com/humeratabassum/DSA/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/humeratabassum/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
