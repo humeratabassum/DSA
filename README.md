@@ -22,6 +22,7 @@ I'm using this repo to:
 | [0162-find-peak-element](https://github.com/humeratabassum/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/humeratabassum/DSA/tree/master/0485-max-consecutive-ones) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/humeratabassum/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +42,7 @@ I'm using this repo to:
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/humeratabassum/DSA/tree/master/0278-first-bad-version) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/humeratabassum/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
