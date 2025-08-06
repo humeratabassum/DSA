@@ -17,6 +17,7 @@ I'm using this repo to:
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/humeratabassum/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/humeratabassum/DSA/tree/master/0485-max-consecutive-ones) |
@@ -33,6 +34,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/humeratabassum/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/humeratabassum/DSA/tree/master/0278-first-bad-version) |
