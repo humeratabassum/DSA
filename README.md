@@ -24,6 +24,7 @@ I'm using this repo to:
 | [0485-max-consecutive-ones](https://github.com/humeratabassum/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/humeratabassum/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/humeratabassum/DSA/tree/master/2102-find-the-middle-index-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -113,4 +114,8 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/humeratabassum/DSA/tree/master/0326-power-of-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/humeratabassum/DSA/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
