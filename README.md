@@ -81,6 +81,7 @@ I'm using this repo to:
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/humeratabassum/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Counting
 |  |
 | ------- |
