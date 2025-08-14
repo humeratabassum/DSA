@@ -25,6 +25,7 @@ I'm using this repo to:
 | [0540-single-element-in-a-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/humeratabassum/DSA/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/humeratabassum/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1833-find-the-highest-altitude](https://github.com/humeratabassum/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/humeratabassum/DSA/tree/master/2102-find-the-middle-index-in-array) |
 ## Greedy
 |  |
@@ -119,5 +120,6 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/humeratabassum/DSA/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/humeratabassum/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/humeratabassum/DSA/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
