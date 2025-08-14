@@ -62,6 +62,7 @@ I'm using this repo to:
 | ------- |
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/humeratabassum/DSA/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,4 +109,8 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/humeratabassum/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
