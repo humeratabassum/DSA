@@ -62,6 +62,7 @@ I'm using this repo to:
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/humeratabassum/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ I'm using this repo to:
 | ------- |
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## String
 |  |
 | ------- |
@@ -89,11 +91,13 @@ I'm using this repo to:
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/humeratabassum/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Counting
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Two Pointers
 |  |
 | ------- |
