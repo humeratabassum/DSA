@@ -68,11 +68,13 @@ I'm using this repo to:
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/humeratabassum/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/humeratabassum/DSA/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/humeratabassum/DSA/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/humeratabassum/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/humeratabassum/DSA/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
