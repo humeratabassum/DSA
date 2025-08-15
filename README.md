@@ -25,6 +25,7 @@ I'm using this repo to:
 | [0540-single-element-in-a-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/humeratabassum/DSA/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/humeratabassum/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1319-unique-number-of-occurrences](https://github.com/humeratabassum/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1833-find-the-highest-altitude](https://github.com/humeratabassum/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/humeratabassum/DSA/tree/master/2102-find-the-middle-index-in-array) |
 ## Greedy
@@ -60,6 +61,7 @@ I'm using this repo to:
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
+| [1319-unique-number-of-occurrences](https://github.com/humeratabassum/DSA/tree/master/1319-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
