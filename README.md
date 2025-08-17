@@ -98,6 +98,7 @@ I'm using this repo to:
 | [0125-valid-palindrome](https://github.com/humeratabassum/DSA/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
+| [1250-longest-common-subsequence](https://github.com/humeratabassum/DSA/tree/master/1250-longest-common-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/humeratabassum/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -124,6 +125,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/humeratabassum/DSA/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
