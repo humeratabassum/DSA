@@ -11,21 +11,26 @@ So, if you list nodes by an inorder traversal, the k-th visited node is the answ
 
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        self.count=0
-        self.result=None
+        self.count=0     # Initialize count of nodes visited so far
+        self.result=None   # Initialize the variable to store k-th smallest value
+
+
 
         def inorder(node):
-            if not node:
+            if not node:        # If current node is None
                 return None
-            inorder(node.left)
 
-            self.count+=1
+            inorder(node.left)  # Step 1: Traverse the left subtree
+
+            self.count+=1      # Step 2: Visit current node, increment count by 1
             if self.count==k:
                 self.result=node.val
-                return
-            inorder(node.right)
-        inorder(root)
-        return self.result
+                return   # Stop further traversal once we found the k-th smallest
+            inorder(node.right) # Step 4: Traverse the right subtree
+        
+        inorder(root)    # Start in-order traversal from root
+
+        return self.result  # Return the k-th smallest element found
 
         
 
