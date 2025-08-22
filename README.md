@@ -40,6 +40,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -50,6 +51,7 @@ I'm using this repo to:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/humeratabassum/DSA/tree/master/0162-find-peak-element) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/humeratabassum/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/humeratabassum/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -61,6 +63,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Hash Table
@@ -177,4 +180,8 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/humeratabassum/DSA/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
