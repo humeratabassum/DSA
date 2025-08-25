@@ -20,6 +20,8 @@ class Solution:
         self.diameter=max(self.diameter,left+right)
 
         return 1+max(left,right)        #height
+
+
         
 """
        1
