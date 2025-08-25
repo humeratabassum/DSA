@@ -27,6 +27,7 @@ I'm using this repo to:
 | [0724-find-pivot-index](https://github.com/humeratabassum/DSA/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/humeratabassum/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/humeratabassum/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/humeratabassum/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/humeratabassum/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/humeratabassum/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/humeratabassum/DSA/tree/master/2428-equal-row-and-column-pairs) |
@@ -156,6 +157,7 @@ I'm using this repo to:
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/humeratabassum/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/humeratabassum/DSA/tree/master/1250-longest-common-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/humeratabassum/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
@@ -223,4 +225,8 @@ I'm using this repo to:
 | [0102-binary-tree-level-order-traversal](https://github.com/humeratabassum/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/humeratabassum/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/humeratabassum/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
