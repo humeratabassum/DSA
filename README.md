@@ -51,6 +51,7 @@ I'm using this repo to:
 | [0145-binary-tree-postorder-traversal](https://github.com/humeratabassum/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/humeratabassum/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -66,6 +67,7 @@ I'm using this repo to:
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/humeratabassum/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/humeratabassum/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -84,6 +86,7 @@ I'm using this repo to:
 | [0145-binary-tree-postorder-traversal](https://github.com/humeratabassum/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/humeratabassum/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -214,6 +217,7 @@ I'm using this repo to:
 | [0145-binary-tree-postorder-traversal](https://github.com/humeratabassum/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/humeratabassum/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
