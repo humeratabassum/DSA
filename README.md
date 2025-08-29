@@ -102,6 +102,7 @@ I'm using this repo to:
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/humeratabassum/DSA/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/humeratabassum/DSA/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/humeratabassum/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -136,6 +137,7 @@ I'm using this repo to:
 | [0014-longest-common-prefix](https://github.com/humeratabassum/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/humeratabassum/DSA/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/humeratabassum/DSA/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/humeratabassum/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -146,6 +148,7 @@ I'm using this repo to:
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/humeratabassum/DSA/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Two Pointers
