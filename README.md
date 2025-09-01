@@ -32,6 +32,7 @@ I'm using this repo to:
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/humeratabassum/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/humeratabassum/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/humeratabassum/DSA/tree/master/1833-find-the-highest-altitude) |
+| [1917-maximum-average-pass-ratio](https://github.com/humeratabassum/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2102-find-the-middle-index-in-array](https://github.com/humeratabassum/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/humeratabassum/DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Greedy
@@ -40,6 +41,7 @@ I'm using this repo to:
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/humeratabassum/DSA/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/humeratabassum/DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Tree
 |  |
 | ------- |
@@ -254,6 +256,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/humeratabassum/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/humeratabassum/DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Quickselect
 |  |
 | ------- |
