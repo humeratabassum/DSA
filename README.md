@@ -30,6 +30,7 @@ I'm using this repo to:
 | [0907-koko-eating-bananas](https://github.com/humeratabassum/DSA/tree/master/0907-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/humeratabassum/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/humeratabassum/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/humeratabassum/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/humeratabassum/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/humeratabassum/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1917-maximum-average-pass-ratio](https://github.com/humeratabassum/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -122,6 +123,7 @@ I'm using this repo to:
 | [0342-power-of-four](https://github.com/humeratabassum/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/humeratabassum/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/humeratabassum/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/humeratabassum/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/humeratabassum/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/humeratabassum/DSA/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/humeratabassum/DSA/tree/master/2050-count-good-numbers) |
