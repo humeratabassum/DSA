@@ -16,6 +16,7 @@ I'm using this repo to:
 | [0033-search-in-rotated-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/humeratabassum/DSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
@@ -117,6 +118,7 @@ I'm using this repo to:
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/humeratabassum/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/humeratabassum/DSA/tree/master/0326-power-of-three) |
