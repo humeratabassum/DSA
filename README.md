@@ -146,6 +146,7 @@ I'm using this repo to:
 | [0215-kth-largest-element-in-an-array](https://github.com/humeratabassum/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [2887-sort-vowels-in-a-string](https://github.com/humeratabassum/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/humeratabassum/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/humeratabassum/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
@@ -162,6 +163,7 @@ I'm using this repo to:
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/humeratabassum/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/humeratabassum/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
