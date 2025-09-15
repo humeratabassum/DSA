@@ -290,4 +290,8 @@ I'm using this repo to:
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/humeratabassum/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/humeratabassum/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/humeratabassum/DSA/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
