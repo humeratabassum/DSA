@@ -241,6 +241,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/humeratabassum/DSA/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/humeratabassum/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -266,6 +267,7 @@ I'm using this repo to:
 | [0094-binary-tree-inorder-traversal](https://github.com/humeratabassum/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/humeratabassum/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/humeratabassum/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/humeratabassum/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,4 +305,8 @@ I'm using this repo to:
 | ------- |
 | [0183-customers-who-never-order](https://github.com/humeratabassum/DSA/tree/master/0183-customers-who-never-order) |
 | [1664-find-users-with-valid-e-mails](https://github.com/humeratabassum/DSA/tree/master/1664-find-users-with-valid-e-mails) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/humeratabassum/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
