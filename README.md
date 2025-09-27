@@ -18,6 +18,7 @@ I'm using this repo to:
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/humeratabassum/DSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/humeratabassum/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -199,6 +200,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/humeratabassum/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/humeratabassum/DSA/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/humeratabassum/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/humeratabassum/DSA/tree/master/1250-longest-common-subsequence) |
