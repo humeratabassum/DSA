@@ -29,6 +29,7 @@ I'm using this repo to:
 | [0540-single-element-in-a-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/humeratabassum/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/humeratabassum/DSA/tree/master/0724-find-pivot-index) |
+| [0830-largest-triangle-area](https://github.com/humeratabassum/DSA/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/humeratabassum/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/humeratabassum/DSA/tree/master/0907-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/humeratabassum/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -130,6 +131,7 @@ I'm using this repo to:
 | [0326-power-of-three](https://github.com/humeratabassum/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/humeratabassum/DSA/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/humeratabassum/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/humeratabassum/DSA/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/humeratabassum/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/humeratabassum/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/humeratabassum/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -297,6 +299,7 @@ I'm using this repo to:
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/humeratabassum/DSA/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/humeratabassum/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/humeratabassum/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
