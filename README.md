@@ -175,6 +175,7 @@ I'm using this repo to:
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/humeratabassum/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/humeratabassum/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/humeratabassum/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
@@ -232,6 +233,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/humeratabassum/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/humeratabassum/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +278,7 @@ I'm using this repo to:
 | [0155-min-stack](https://github.com/humeratabassum/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/humeratabassum/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/humeratabassum/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [2470-removing-stars-from-a-string](https://github.com/humeratabassum/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
