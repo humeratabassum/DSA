@@ -30,6 +30,7 @@ I'm using this repo to:
 | [0540-single-element-in-a-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/humeratabassum/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/humeratabassum/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/humeratabassum/DSA/tree/master/0735-asteroid-collision) |
 | [0830-largest-triangle-area](https://github.com/humeratabassum/DSA/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/humeratabassum/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/humeratabassum/DSA/tree/master/0907-koko-eating-bananas) |
@@ -232,6 +233,7 @@ I'm using this repo to:
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/humeratabassum/DSA/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/humeratabassum/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/humeratabassum/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
@@ -278,6 +280,7 @@ I'm using this repo to:
 | [0155-min-stack](https://github.com/humeratabassum/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/humeratabassum/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/humeratabassum/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/humeratabassum/DSA/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/humeratabassum/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Breadth-First Search
 |  |
