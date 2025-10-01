@@ -139,6 +139,7 @@ I'm using this repo to:
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/humeratabassum/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/humeratabassum/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/humeratabassum/DSA/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/humeratabassum/DSA/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/humeratabassum/DSA/tree/master/2050-count-good-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/humeratabassum/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/humeratabassum/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -234,6 +235,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/humeratabassum/DSA/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/humeratabassum/DSA/tree/master/1642-water-bottles) |
 | [2428-equal-row-and-column-pairs](https://github.com/humeratabassum/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/humeratabassum/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
