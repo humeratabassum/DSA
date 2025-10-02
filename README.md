@@ -143,6 +143,7 @@ I'm using this repo to:
 | [2050-count-good-numbers](https://github.com/humeratabassum/DSA/tree/master/2050-count-good-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/humeratabassum/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/humeratabassum/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/humeratabassum/DSA/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/humeratabassum/DSA/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -238,6 +239,7 @@ I'm using this repo to:
 | [1642-water-bottles](https://github.com/humeratabassum/DSA/tree/master/1642-water-bottles) |
 | [2428-equal-row-and-column-pairs](https://github.com/humeratabassum/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/humeratabassum/DSA/tree/master/2470-removing-stars-from-a-string) |
+| [3336-water-bottles-ii](https://github.com/humeratabassum/DSA/tree/master/3336-water-bottles-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
