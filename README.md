@@ -170,6 +170,7 @@ I'm using this repo to:
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/humeratabassum/DSA/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/humeratabassum/DSA/tree/master/0383-ransom-note) |
+| [0520-detect-capital](https://github.com/humeratabassum/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/humeratabassum/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
