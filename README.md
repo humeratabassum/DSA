@@ -12,6 +12,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/humeratabassum/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/humeratabassum/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/humeratabassum/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -47,6 +48,7 @@ I'm using this repo to:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/humeratabassum/DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/humeratabassum/DSA/tree/master/1448-maximum-69-number) |
@@ -190,6 +192,7 @@ I'm using this repo to:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/humeratabassum/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/humeratabassum/DSA/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
 ## Trie
