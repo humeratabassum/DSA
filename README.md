@@ -121,6 +121,7 @@ I'm using this repo to:
 | [0146-lru-cache](https://github.com/humeratabassum/DSA/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/humeratabassum/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/humeratabassum/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/humeratabassum/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/humeratabassum/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -174,6 +175,7 @@ I'm using this repo to:
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/humeratabassum/DSA/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/humeratabassum/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/humeratabassum/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/humeratabassum/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/humeratabassum/DSA/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/humeratabassum/DSA/tree/master/0782-jewels-and-stones) |
@@ -189,6 +191,7 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/humeratabassum/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/humeratabassum/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/humeratabassum/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/humeratabassum/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Two Pointers
@@ -336,6 +339,7 @@ I'm using this repo to:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/humeratabassum/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/humeratabassum/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/humeratabassum/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/humeratabassum/DSA/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
