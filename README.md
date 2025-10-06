@@ -33,6 +33,7 @@ I'm using this repo to:
 | [0628-maximum-product-of-three-numbers](https://github.com/humeratabassum/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/humeratabassum/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/humeratabassum/DSA/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/humeratabassum/DSA/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/humeratabassum/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/humeratabassum/DSA/tree/master/0907-koko-eating-bananas) |
@@ -215,6 +216,7 @@ I'm using this repo to:
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/humeratabassum/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/humeratabassum/DSA/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/humeratabassum/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/humeratabassum/DSA/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/humeratabassum/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
