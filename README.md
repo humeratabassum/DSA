@@ -17,6 +17,7 @@ I'm using this repo to:
 | [0033-search-in-rotated-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/humeratabassum/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/humeratabassum/DSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/humeratabassum/DSA/tree/master/0120-triangle) |
@@ -213,6 +214,7 @@ I'm using this repo to:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/humeratabassum/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/humeratabassum/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/humeratabassum/DSA/tree/master/0198-house-robber) |
@@ -254,6 +256,7 @@ I'm using this repo to:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/humeratabassum/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/humeratabassum/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Linked List
