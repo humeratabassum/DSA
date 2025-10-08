@@ -23,6 +23,7 @@ I'm using this repo to:
 | [0120-triangle](https://github.com/humeratabassum/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/humeratabassum/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/humeratabassum/DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/humeratabassum/DSA/tree/master/0198-house-robber) |
@@ -217,6 +218,7 @@ I'm using this repo to:
 | [0053-maximum-subarray](https://github.com/humeratabassum/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/humeratabassum/DSA/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/humeratabassum/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/humeratabassum/DSA/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/humeratabassum/DSA/tree/master/1013-fibonacci-number) |
