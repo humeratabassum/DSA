@@ -21,6 +21,7 @@ I'm using this repo to:
 | [0066-plus-one](https://github.com/humeratabassum/DSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/humeratabassum/DSA/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/humeratabassum/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/humeratabassum/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/humeratabassum/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/humeratabassum/DSA/tree/master/0152-maximum-product-subarray) |
@@ -121,6 +122,7 @@ I'm using this repo to:
 | ------- |
 | [0001-two-sum](https://github.com/humeratabassum/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/humeratabassum/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/humeratabassum/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/humeratabassum/DSA/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/humeratabassum/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/humeratabassum/DSA/tree/master/0383-ransom-note) |
@@ -354,4 +356,8 @@ I'm using this repo to:
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/humeratabassum/DSA/tree/master/0969-number-of-recent-calls) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/humeratabassum/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
