@@ -143,6 +143,7 @@ I'm using this repo to:
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/humeratabassum/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/humeratabassum/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/humeratabassum/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/humeratabassum/DSA/tree/master/0231-power-of-two) |
@@ -242,6 +243,7 @@ I'm using this repo to:
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/humeratabassum/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/humeratabassum/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/humeratabassum/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/humeratabassum/DSA/tree/master/0342-power-of-four) |
