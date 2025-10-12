@@ -79,6 +79,7 @@ I'm using this repo to:
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/humeratabassum/DSA/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/humeratabassum/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -119,6 +120,7 @@ I'm using this repo to:
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/humeratabassum/DSA/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/humeratabassum/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,6 +299,7 @@ I'm using this repo to:
 | [0501-find-mode-in-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/humeratabassum/DSA/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/humeratabassum/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -317,6 +320,7 @@ I'm using this repo to:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/humeratabassum/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/humeratabassum/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/humeratabassum/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
