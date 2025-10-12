@@ -76,6 +76,7 @@ I'm using this repo to:
 | [0222-count-complete-tree-nodes](https://github.com/humeratabassum/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/humeratabassum/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -96,6 +97,7 @@ I'm using this repo to:
 | [0278-first-bad-version](https://github.com/humeratabassum/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/humeratabassum/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/humeratabassum/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/humeratabassum/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -119,6 +121,7 @@ I'm using this repo to:
 | [0222-count-complete-tree-nodes](https://github.com/humeratabassum/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/humeratabassum/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -303,6 +306,7 @@ I'm using this repo to:
 | [0199-binary-tree-right-side-view](https://github.com/humeratabassum/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/humeratabassum/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/humeratabassum/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/humeratabassum/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/humeratabassum/DSA/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/humeratabassum/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -326,6 +330,7 @@ I'm using this repo to:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/humeratabassum/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/humeratabassum/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/humeratabassum/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/humeratabassum/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/humeratabassum/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
