@@ -5,19 +5,12 @@ from collections import defaultdict
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        groups=defaultdict(list)
+        anagram_map=defaultdict(list)
+
         for word in strs:
-            key=tuple(sorted(word))
-            groups[key].append(word)
-        return list(groups.values())   
-
-
-        # anagram_map=defaultdict(list)
-
-        # for word in strs:
-        #     key=''.join(sorted(word))
-        #     anagram_map[key].append(word)
-        # return list(anagram_map.values())
+            key=''.join(sorted(word))
+            anagram_map[key].append(word)
+        return list(anagram_map.values())
 
 
 """ it is in the form of key value pairs
