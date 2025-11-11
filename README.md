@@ -364,6 +364,7 @@ I'm using this repo to:
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/humeratabassum/DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/humeratabassum/DSA/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/humeratabassum/DSA/tree/master/1161-project-employees-i) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/humeratabassum/DSA/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/humeratabassum/DSA/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/humeratabassum/DSA/tree/master/1811-fix-names-in-a-table) |
 ## Queue
